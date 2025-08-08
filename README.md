@@ -39,7 +39,7 @@ O cadastro do cliente será dividido em 4 partes:
 #### Requisitos da API
 
 - Armazene os dados cadastrais em um banco de dados MongoDB. Use [MongoDB Atlas](https://www.mongodb.com/free-cloud-database) gratuito ou Docker local.
-- Consulte o CEP no serviço [CepRapido.com](https://ceprapido.com/api/docs).
+- Consulte o CEP no serviço [ViaCep.com.br](https://viacep.com.br/).
 - Valide:
     - CPF
     - Se o cliente é maior de idade conforme regras brasileiras
