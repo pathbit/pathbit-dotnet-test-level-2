@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Desenvolva uma solução em C# .NET 6 (ou superior) composta por uma WebAPI, uma WebApplication e um Serviço para disparo de emails.
+Desenvolva uma solução em C# .NET 8 (ou superior) composta por uma WebAPI, uma WebApplication e um Serviço para disparo de emails.
 
 ## Especificação
 
