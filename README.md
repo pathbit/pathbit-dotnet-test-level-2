@@ -76,3 +76,7 @@ O cadastro do cliente será dividido em 4 partes:
 Ao concluir o desafio, organize o código em um repositório Git e envie o link para a equipe de recrutamento. Documente os passos para execução do projeto e quaisquer outras informações que considere relevantes.
 
 Boa sorte!
+
+## Exemplo
+
+<img width="1061" height="610" alt="image" src="https://github.com/user-attachments/assets/3a5d42ab-2ebb-407a-8d31-150b7d01a5fd" />
