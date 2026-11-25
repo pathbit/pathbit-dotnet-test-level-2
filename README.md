@@ -80,3 +80,19 @@ Boa sorte!
 ## Exemplo
 
 <img width="1061" height="610" alt="image" src="https://github.com/user-attachments/assets/3a5d42ab-2ebb-407a-8d31-150b7d01a5fd" />
+
+---
+
+## Contribuições e proteção de branches
+
+Para sugerir correções no enunciado, abra uma [issue](https://github.com/pathbit/pathbit-dotnet-test-level-2/issues) ou envie um pull request para `master`. Para entregar a solução, siga as instruções da seção [Entrega](#entrega).
+
+---
+
+## 📄 Licença
+
+Este repositório não inclui um arquivo de licença. Para dúvidas sobre o uso ou a redistribuição do enunciado, consulte a Pathbit.
+
+---
+
+Developed with ❤️ by [Pathbit](https://pathbit.co/)
